@@ -3,7 +3,7 @@
 
 **Nama:** Rizki Ramadan  
 **NIM:** 2225250024  
-**Kelas:** [Isi kelas]
+**Kelas:** 3F
 
 ## 1. Tujuan
 
